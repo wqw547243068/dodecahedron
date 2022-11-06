@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our company，dodecahedron（廿面体）!
-    text: Nice To Meet You<br>欢迎来到廿面体主页！<br><img src="https://ts1.cn.mm.bing.net/th/id/R-C.1e6f3327ea5e04050caaa6f6973d87b2">
+    text: Nice To Meet You<br>欢迎来到廿面体主页！
     button: Tell Me More
     buttonlink: "#services"
 
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "一群有理想的湖北人，10+年软件开发经验，领域涉及：客户端、Web、数据挖掘、机器学习、自然语言处理、计算机视觉、3D图形学等领域"
+    body: "一群有理想的湖北人，10+年软件开发经验，领域涉及：客户端、Web、数据挖掘、机器学习、自然语言处理、计算机视觉、3D图形学等领域<br> <img src="https://ts1.cn.mm.bing.net/th/id/R-C.1e6f3327ea5e04050caaa6f6973d87b2">"
     section: about
 
   clients:
