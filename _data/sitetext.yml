@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our company，dodecahedron（廿面体）!
-    text: Nice To Meet You<br>欢迎来到廿面体主页！
+    text: Nice To Meet You<br>欢迎来到廿面体主页！<br><img src="https://ts1.cn.mm.bing.net/th/id/R-C.1e6f3327ea5e04050caaa6f6973d87b2">
     button: Tell Me More
     buttonlink: "#services"
 
