@@ -90,7 +90,7 @@ en: &DEFAULT_EN
     people:
       - name: "Wang Xianwen"
         role: "CEO"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Wang Qiwen"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
