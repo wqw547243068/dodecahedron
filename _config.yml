@@ -16,9 +16,9 @@
 url    : "https://wqw547243068.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/dodecahedron" # the subpath of your site, e.g. /blog
 
-title      : Website of Dodecahedron（廿面体）
+title      : 廿面体
 email      : wqw547243068@163.com #this is also the email contact forms will go to
-description: "廿面体"
+description: "北京廿面体科技有限公司"
 author     : wangqiwen
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
